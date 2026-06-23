@@ -5,6 +5,7 @@
     <img src="./assets/cover.png" alt="Reza Hassani Banner" width="100%" />
   </a>
 </p>
+
 > A nostalgic, pseudo-3D endless space racer built entirely in plain JavaScript - no engine, no dependencies, no build step.
 
 ---
